@@ -54,13 +54,13 @@ description: >- # this means to ignore newlines until "url:"
   Google search results) and in your feed.xml site description.
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  xtarrega
-github_repo:  xtarrega/ServiciosEnRed
+github_repo:  xtarrega/AplicacionesWEB
 defaults:
   - scope:
       path: "assets/img"
     values:
       image: true
-baseurl: /ServiciosEnRed
+baseurl: /AplicacionesWEB
 # Build settings
 #theme: minima
 #plugins:
